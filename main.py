@@ -1,0 +1,3 @@
+genda = gay
+
+print(genda)
